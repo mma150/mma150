@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milan Miyani
-- 👀 I’m interested in Microservice and Java Enterprise Application Development.
+- 👀 I’m interested in Microservice and Application Development.
 - 🌱 I’m currently learning Cloud Technology.
 - 📫 You can connect me to milanmiyani11@gmail.com
 
