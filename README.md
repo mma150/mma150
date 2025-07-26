@@ -78,5 +78,5 @@ Let’s turn your AI vision into reality! Contact me today to discuss your proje
 * 📫 **Email:** [milanmiyani11@gmail.com](mailto:milanmiyani11@gmail.com)
 * 🌐 **GitHub:** [mma150](https://github.com/mma150)
 
-Best regards,
+Regards,
 Milan Miyani
