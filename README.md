@@ -1,5 +1,3 @@
-![AI Developer Banner - Milan Miyani](https://github.com/mma150/mma150/raw/main/ai_banner.png)
-
 # 👋 Hi, I’m Milan Miyani
 
 ---
@@ -18,7 +16,7 @@ I’m continuously learning and enhancing my expertise in **Cloud Technology (AW
 
 Explore examples of my impactful work:
 
-* **🌐 Social Media App - Backend:** [loktin.app](https://loktin.app)
+* **🌐 Decentralized AI Application / Secure Networking Solution:** [loktin.app](https://loktin.app)
 * **🗣️ Real-time Voice Interaction Demo:** [gita.icalls.ai](https://gita.icalls.ai)
 * **🤖 AI Voice & Call Automation:** [icalls.ai](https://icalls.ai) – Voice agents for automated sales/support
 * **👁️ AI Visual & 3D Talk Bots:** [talkingbot.ai](https://talkingbot.ai) – Engaging 3D conversational agents
@@ -71,6 +69,12 @@ Explore examples of my impactful work:
 * Launched multiple live AI demo platforms (voice, visual, conversational, and learning-focused).
 * Successfully deployed high-impact AI solutions in business, healthcare, and educational organizations.
 * Recognized for delivering scalable, ROI-focused technology that translates cutting-edge AI into practical, real-world results.
+
+---
+
+## GitHub Stats & Trophies
+
+![Milan Miyani GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mma150&theme=onedark)
 
 ---
 
