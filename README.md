@@ -1,3 +1,5 @@
+![AI Developer Banner - Milan Miyani](https://github.com/mma150/mma150/raw/main/ai_banner.png)
+
 # 👋 Hi, I’m Milan Miyani
 
 ---
@@ -16,6 +18,7 @@ I’m continuously learning and enhancing my expertise in **Cloud Technology (AW
 
 Explore examples of my impactful work:
 
+* **🌐 Social Media App - Backend:** [loktin.app](https://loktin.app)
 * **🗣️ Real-time Voice Interaction Demo:** [gita.icalls.ai](https://gita.icalls.ai)
 * **🤖 AI Voice & Call Automation:** [icalls.ai](https://icalls.ai) – Voice agents for automated sales/support
 * **👁️ AI Visual & 3D Talk Bots:** [talkingbot.ai](https://talkingbot.ai) – Engaging 3D conversational agents
@@ -78,5 +81,5 @@ Let’s turn your AI vision into reality! Contact me today to discuss your proje
 * 📫 **Email:** [milanmiyani11@gmail.com](mailto:milanmiyani11@gmail.com)
 * 🌐 **GitHub:** [mma150](https://github.com/mma150)
 
-Regards,
+Best regards,
 Milan Miyani
