@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m an **AI Agent Architect** with 6+ years of experience in the IT industry, specializing in designing and building transformative AI Voice, Visual, and 3D Agents, as well as intelligent Chatbots. My passion lies in converting complex AI concepts into practical, revenue-generating solutions for clients across multiple domains.
+I’m an **AI Agent Architect** with 7+ years of experience in the IT industry, specializing in designing and building transformative AI Voice, Visual, and 3D Agents, as well as intelligent Chatbots. My passion lies in converting complex AI concepts into practical, revenue-generating solutions for clients across multiple domains.
 
 I leverage the latest in Large Language Models (LLMs), real-time Speech-to-Text (STT), and Text-to-Speech (TTS) technology. My goal is to help businesses and institutions grow, delight their users, and operate more efficiently through scalable, future-ready AI.
 
