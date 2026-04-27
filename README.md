@@ -1,14 +1,49 @@
-# 👋 Hi, I’m Milan Miyani
+# 👋 Hi, I'm Milan Miyani
 
 ---
 
 ## About Me
 
-I’m an **AI Agent Architect** with 7+ years of experience in the IT industry, specializing in designing and building transformative AI Voice, Visual, and 3D Agents, as well as intelligent Chatbots. My passion lies in converting complex AI concepts into practical, revenue-generating solutions for clients across multiple domains.
+I'm an **AI Agent Architect** with 7+ years of experience in the IT industry, specializing in designing and building transformative AI Voice, Visual, and 3D Agents, as well as intelligent Chatbots. My passion lies in converting complex AI concepts into practical, revenue-generating solutions for clients across multiple domains.
 
 I leverage the latest in Large Language Models (LLMs), real-time Speech-to-Text (STT), and Text-to-Speech (TTS) technology. My goal is to help businesses and institutions grow, delight their users, and operate more efficiently through scalable, future-ready AI.
 
-I’m continuously learning and enhancing my expertise in **Cloud Technology (AWS, Azure, GCP)** and exploring cutting-edge AI technologies like **Gen AI, Agentic AI, n8n, and AutoGen**, alongside my focus on Microservice and Application Development.
+I'm continuously learning and enhancing my expertise in **Cloud Technology (AWS, Azure, GCP)** and exploring cutting-edge AI technologies like **Gen AI, Agentic AI, n8n, and AutoGen**, alongside my focus on Microservice and Application Development.
+
+---
+
+## 🚀 Flagship Product — OmniKit
+
+> **Multi-tenant Omnichannel AI Agent Platform**
+
+OmniKit is my core platform product — a production-grade, multi-tenant SaaS that powers AI-driven communication across every major messaging and voice channel from a single unified backend.
+
+**What OmniKit does:**
+
+| Capability | Details |
+|---|---|
+| 📡 **Omnichannel Inbox** | WhatsApp, Telegram, Instagram, Facebook, Web Chat — unified in one place |
+| 🧠 **Unified Customer Profile** | Cross-channel context injection so agents always know who they're talking to |
+| 🤖 **AI Agent Engine** | LLM-powered agents with configurable personas, tools, and escalation logic |
+| 📊 **Lead Scoring & CRM** | Automatic lead qualification and scoring across every conversation |
+| 📣 **Campaign Automation** | Broadcast campaigns with segmentation, scheduling, and delivery tracking |
+| 🔔 **SLA & Issues Engine** | SLA timers, auto-escalation, and team assignment for support workflows |
+| 📈 **Analytics Dashboard** | Conversation volume, agent performance, CSAT, and channel breakdown |
+| 🏢 **Multi-tenant Architecture** | Isolated workspaces per client with role-based access and white-label support |
+
+**Tech Stack:** Node.js · Redis · WebSockets · OAuth 2.0 · JWT · Telegram Bot API · WhatsApp Business API · LiveKit · REST APIs
+
+**Powered by OmniKit:**
+* 🏠 **Bayut AI** – Real estate AI chat agent deployed on an Oman property portal
+* 📞 **iCalls** – Voice agent automation layer built on the OmniKit infrastructure
+
+---
+
+## 🎙️ HoloTalk — AI Avatar Agent for Kiosks
+
+HoloTalk is an AI-powered 3D avatar agent designed for kiosk and digital signage deployments. It delivers real-time, face-to-face AI conversations through lifelike animated avatars — ideal for reception, retail, healthcare check-in, and education.
+
+**Key Features:** Real-time STT/TTS pipeline · LiveKit-based WebRTC transport · Configurable avatar personas · Voice + visual response · Session management API
 
 ---
 
@@ -16,6 +51,8 @@ I’m continuously learning and enhancing my expertise in **Cloud Technology (AW
 
 Explore examples of my impactful work:
 
+* **📦 OmniKit** – Multi-tenant omnichannel AI agent platform (WhatsApp, Telegram, Instagram, Web)
+* **🎙️ HoloTalk** – AI avatar agent for kiosk and digital signage interfaces
 * **🌐 Decentralized AI Application / Secure Networking Solution:** [loktin.app](https://loktin.app)
 * **🗣️ Real-time Voice Interaction Demo:** [gita.icalls.ai](https://gita.icalls.ai)
 * **🤖 AI Voice & Call Automation:** [icalls.ai](https://icalls.ai) – Voice agents for automated sales/support
@@ -48,7 +85,7 @@ Explore examples of my impactful work:
     * 24/7 voice agents for patient support, triage, and virtual assistance.
     * Automation of service requests, patient intake, and administrative tasks to boost operational efficiency.
 * **Education:**
-    * Personalized, AI-driven learning platforms that adapt to each student’s pace and needs.
+    * Personalized, AI-driven learning platforms that adapt to each student's pace and needs.
     * Interactive 3D bots for immersive tutoring, coaching, and language learning.
     * Automated systems for admissions, student support, and campus information.
 
@@ -72,18 +109,25 @@ Explore examples of my impactful work:
 
 ---
 
-## GitHub Stats & Trophies
+## 📊 GitHub Stats
 
-## 🏆 My GitHub Stats [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/mma150) 
-## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mma150&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mma150) 
-## [![GitHub Streak](https://streak-stats.demolab.com?user=mma150&theme=github-dark-blue&hide_border=true)](https://github.com/mma150) 
-## [![Trophy](https://github-profile-trophy.vercel.app/?username=mma150&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/mma150)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/mma150)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mma150&layout=compact&theme=default&hide_border=true)](https://github.com/mma150)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mma150&theme=default&hide_border=true)](https://github.com/mma150)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mma150&theme=github&hide_border=true&area=true)](https://github.com/mma150)
+
+</div>
 
 ---
 
 ## Contact
 
-Let’s turn your AI vision into reality! Contact me today to discuss your project.
+Let's turn your AI vision into reality! Contact me today to discuss your project.
 
 * 📫 **Email:** [milanmiyani11@gmail.com](mailto:milanmiyani11@gmail.com)
 * 🌐 **GitHub:** [mma150](https://github.com/mma150)
