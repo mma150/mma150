@@ -74,7 +74,10 @@ Explore examples of my impactful work:
 
 ## GitHub Stats & Trophies
 
-## 🏆 My GitHub Stats [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/mma150) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mma150&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mma150) [![GitHub Streak](https://streak-stats.demolab.com?user=mma150&theme=github-dark-blue&hide_border=true)](https://github.com/mma150) [![Trophy](https://github-profile-trophy.vercel.app/?username=mma150&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/mma150)
+## 🏆 My GitHub Stats [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/mma150) 
+## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mma150&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mma150) 
+## [![GitHub Streak](https://streak-stats.demolab.com?user=mma150&theme=github-dark-blue&hide_border=true)](https://github.com/mma150) 
+## [![Trophy](https://github-profile-trophy.vercel.app/?username=mma150&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/mma150)
 
 ---
 
