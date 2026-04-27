@@ -113,7 +113,7 @@ Explore examples of my impactful work:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/mma150)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mma150&show_icons=true&theme=default&hide_border=true&rank_icon=github)](https://github.com/mma150)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mma150&layout=compact&theme=default&hide_border=true)](https://github.com/mma150)
 
